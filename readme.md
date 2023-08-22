@@ -19,7 +19,7 @@ Ich würde gerne ein kleines Programier Projekt machen wo ich einen Namen angebe
 | ---- | ------- | ----------------- | ---- |
 | Programm in VS gestartet | `Test`  | ``      |  |
 | Programm in VS gestartet | `Tom Aggett`  | `15 Jahre alt, Ennetbaden`      | 
-| Programm in VS gestartet | `123 Crash`  | `Das ist leider Kein Name den ich kenne.`      | 
+| Programm in VS gestartet | `123 Crash`  | `Das ist leider kein Name den ich kenne.`      | 
 
 
 
