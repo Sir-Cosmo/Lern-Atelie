@@ -21,6 +21,27 @@ Ich würde gerne ein kleines Programier Projekt machen wo ich einen Namen angebe
 | Programm in VS gestartet | `Tom Aggett`  | `15 Jahre alt, Ennetbaden`      | X |
 | Programm in VS gestartet | `123 Crash`  | `Das ist leider kein Name den ich kenne.` |   X  | 
 
+Heute habe ich viel mehr geschaft als geplant. Ich habe alle meine Ziele erreicht und die Funktion eingefügt das man Personen hinzufügen kann wärend das Programm läuft. Ich habe auch ein Zahlenspiel Programmiert. (33 Wörter). 
+
+## Arbeitspakete für 05.09.2023
+
+- [ ] Das Programm hat keine grossen Logik lücken.
+- [ ] Das Programm kann die Infos in einem Dokument abspeichern
+- [ ] Das Programm kann die Infos aus einem Dokumet ablesen
+
+| Vorbereitung             | Eingabe | Erwartete Ausgabe | Erfüllt |
+| ---- | ------- | ----------------- | ---- |
+| Programm in VS gestartet | `Esther Kinzel` | `In dem Dokument sichtbar` |  |
+| Programm in VS gestartet | `Esther Kinzel`  | `Infos aus dem Dokument`      |  |
+
+
+      
+ 
+
+
+
+
+
 
 
 
