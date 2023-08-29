@@ -21,7 +21,7 @@ Ich würde gerne ein kleines Programier Projekt machen wo ich einen Namen angebe
 | Programm in VS gestartet | `Tom Aggett`  | `15 Jahre alt, Ennetbaden`      | X |
 | Programm in VS gestartet | `123 Crash`  | `Das ist leider kein Name den ich kenne.` |   X  | 
 
-Heute habe ich viel mehr geschaft als geplant. Ich habe alle meine Ziele erreicht und die Funktion eingefügt das man Personen hinzufügen kann wärend das Programm läuft. Ich habe auch ein Zahlenspiel Programmiert. (33 Wörter). 
+Heute habe ich viel mehr geschafft als geplant. Ich habe alle meine Ziele erreicht und die Funktion eingefügt, dass man Personen hinzufügen kann, während das Programm läuft. Ich habe auch ein Zahlenspiel programmiert und ganz viel über Datenbanken gelernt. Ich habe auch viel mehr Funktionen eingebaut als ich mir je geträumt hätte. (52 Wörter). 
 
 ## Arbeitspakete für 05.09.2023
 
