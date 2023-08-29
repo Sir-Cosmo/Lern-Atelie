@@ -11,15 +11,15 @@ Ich würde gerne ein kleines Programier Projekt machen wo ich einen Namen angebe
 ## Arbeitspakete für 29.08.2023
 
 - [X] Ein Program welches Inputs nehmen kann.
-- [ ] Ein Program welches Infos über eine Person geben kann wenn gefragt.
-- [ ] Ein Program welches Infos über  3 Verschiedene Personen geben kann.
-- [ ] Ein Program welches ein Crash sichherheits Feature hat. 
+- [X] Ein Program welches Infos über eine Person geben kann wenn gefragt.
+- [X] Ein Program welches Infos über  3 Verschiedene Personen geben kann.
+- [X] Ein Program welches ein Crash sichherheits Feature hat. 
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe | Erfüllt |
 | ---- | ------- | ----------------- | ---- |
-| Programm in VS gestartet | `Test`  | ``      |  |
-| Programm in VS gestartet | `Tom Aggett`  | `15 Jahre alt, Ennetbaden`      | 
-| Programm in VS gestartet | `123 Crash`  | `Das ist leider kein Name den ich kenne.`      | 
+| Programm in VS gestartet | `Test`  | ``      | X |
+| Programm in VS gestartet | `Tom Aggett`  | `15 Jahre alt, Ennetbaden`      | X |
+| Programm in VS gestartet | `123 Crash`  | `Das ist leider kein Name den ich kenne.` |   X  | 
 
 
 
