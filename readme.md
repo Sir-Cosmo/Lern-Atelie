@@ -10,7 +10,7 @@ Ich würde gerne ein kleines Programier Projekt machen wo ich einen Namen angebe
 
 ## Arbeitspakete für 29.08.2023
 
-- [ ] Ein Program welches Inputs nehmen kann.
+- [X] Ein Program welches Inputs nehmen kann.
 - [ ] Ein Program welches Infos über eine Person geben kann wenn gefragt.
 - [ ] Ein Program welches Infos über  3 Verschiedene Personen geben kann.
 - [ ] Ein Program welches ein Crash sichherheits Feature hat. 
