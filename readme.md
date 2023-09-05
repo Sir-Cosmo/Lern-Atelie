@@ -25,15 +25,19 @@ Heute habe ich viel mehr geschafft als geplant. Ich habe alle meine Ziele erreic
 
 ## Arbeitspakete für 05.09.2023
 
-- [ ] Das Programm hat keine grossen Logik lücken.
-- [ ] Das Programm kann die Infos in einem Dokument abspeichern
-- [ ] Das Programm kann die Infos aus einem Dokumet ablesen
+- [X] Das Programm hat keine grossen Logik lücken.
+- [X] Das Programm kann die Infos in einem Dokument abspeichern
+- [X] Das Programm kann die Infos aus einem Dokumet ablesen
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe | Erfüllt |
 | ---- | ------- | ----------------- | ---- |
-| Programm in VS gestartet | `Esther Kinzel` | `In dem Dokument sichtbar` |  |
-| Programm in VS gestartet | `Esther Kinzel`  | `Infos aus dem Dokument`      |  |
+| Programm in VS gestartet | `Esther Kinzel` | `In dem Dokument sichtbar` | X |
+| Programm in VS gestartet | `Esther Kinzel`  | `Infos aus dem Dokument`      | X |
 
+ Heute war ich sehr erfolgreich da ich es geschaft habe das mein Dictionary in einem Text Dokument gespeichert wird. Ich habe auch sehr viel über C# und StreamWriter gelernt. Ich bin zwar noch nicht 100% mit den verschiedenen Comands vertraut aber es komnmt langsam.     Ich habe auch noch in meiner Extra Zeit meinen Kollegenen mit ihrem Code geholfen.
+
+
+ 
 
       
  
