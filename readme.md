@@ -34,8 +34,8 @@ Heute habe ich viel mehr geschafft als geplant. Ich habe alle meine Ziele erreic
 | Programm in VS gestartet | `Esther Kinzel` | `In dem Dokument sichtbar` | X |
 | Programm in VS gestartet | `Esther Kinzel`  | `Infos aus dem Dokument`      | X |
 
- Heute war ich sehr erfolgreich da ich es geschaft habe das mein Dictionary in einem Text Dokument gespeichert wird. Ich habe auch sehr viel über C# und StreamWriter gelernt. Ich bin zwar noch nicht 100% mit den verschiedenen Comands vertraut aber es komnmt langsam.     Ich habe auch noch in meiner Extra Zeit meinen Kollegenen mit ihrem Code geholfen.
-
+ Heute war ich sehr erfolgreich da ich es geschaft habe das mein Dictionary in einem Text Dokument gespeichert wird. Ich habe auch sehr viel über C# und StreamWriter gelernt. Ich bin zwar noch nicht 100% mit den verschiedenen Comands vertraut aber es komnmt langsam. Ich habe auch noch in meiner Extra Zeit meinen Kollegenen mit ihrem Code geholfen.
+Dazu habe ich mit meinem Neuen Projekt Snake in C # zu programmieren angefangen.
 
  
 
