@@ -1,0 +1,28 @@
+C:\Users\Tom School\source\repos\ILA 1 Projekt (Namen Datenbank)\bin\Debug\net6.0\ILA 1 Projekt (Namen Datenbank).exe
+C:\Users\Tom School\source\repos\ILA 1 Projekt (Namen Datenbank)\bin\Debug\net6.0\ILA 1 Projekt (Namen Datenbank).deps.json
+C:\Users\Tom School\source\repos\ILA 1 Projekt (Namen Datenbank)\bin\Debug\net6.0\ILA 1 Projekt (Namen Datenbank).runtimeconfig.json
+C:\Users\Tom School\source\repos\ILA 1 Projekt (Namen Datenbank)\bin\Debug\net6.0\ILA 1 Projekt (Namen Datenbank).dll
+C:\Users\Tom School\source\repos\ILA 1 Projekt (Namen Datenbank)\bin\Debug\net6.0\ILA 1 Projekt (Namen Datenbank).pdb
+C:\Users\Tom School\source\repos\ILA 1 Projekt (Namen Datenbank)\obj\Debug\net6.0\ILA 1 Projekt (Namen Datenbank).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tom School\source\repos\ILA 1 Projekt (Namen Datenbank)\obj\Debug\net6.0\ILA 1 Projekt (Namen Datenbank).AssemblyInfoInputs.cache
+C:\Users\Tom School\source\repos\ILA 1 Projekt (Namen Datenbank)\obj\Debug\net6.0\ILA 1 Projekt (Namen Datenbank).AssemblyInfo.cs
+C:\Users\Tom School\source\repos\ILA 1 Projekt (Namen Datenbank)\obj\Debug\net6.0\ILA 1 Projekt (Namen Datenbank).csproj.CoreCompileInputs.cache
+C:\Users\Tom School\source\repos\ILA 1 Projekt (Namen Datenbank)\obj\Debug\net6.0\ILA 1 Projekt (Namen Datenbank).dll
+C:\Users\Tom School\source\repos\ILA 1 Projekt (Namen Datenbank)\obj\Debug\net6.0\refint\ILA 1 Projekt (Namen Datenbank).dll
+C:\Users\Tom School\source\repos\ILA 1 Projekt (Namen Datenbank)\obj\Debug\net6.0\ILA 1 Projekt (Namen Datenbank).pdb
+C:\Users\Tom School\source\repos\ILA 1 Projekt (Namen Datenbank)\obj\Debug\net6.0\ILA 1 Projekt (Namen Datenbank).genruntimeconfig.cache
+C:\Users\Tom School\source\repos\ILA 1 Projekt (Namen Datenbank)\obj\Debug\net6.0\ref\ILA 1 Projekt (Namen Datenbank).dll
+C:\Users\0toma\Downloads\ILA 1 Projekt (Namen Datenbank)\obj\Debug\net6.0\ILA 1 Projekt (Namen Datenbank).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0toma\Downloads\ILA 1 Projekt (Namen Datenbank)\obj\Debug\net6.0\ILA 1 Projekt (Namen Datenbank).AssemblyInfoInputs.cache
+C:\Users\0toma\Downloads\ILA 1 Projekt (Namen Datenbank)\obj\Debug\net6.0\ILA 1 Projekt (Namen Datenbank).AssemblyInfo.cs
+C:\Users\0toma\Downloads\ILA 1 Projekt (Namen Datenbank)\obj\Debug\net6.0\ILA 1 Projekt (Namen Datenbank).csproj.CoreCompileInputs.cache
+C:\Users\0toma\Downloads\ILA 1 Projekt (Namen Datenbank)\obj\Debug\net6.0\ILA 1 Projekt (Namen Datenbank).dll
+C:\Users\0toma\Downloads\ILA 1 Projekt (Namen Datenbank)\obj\Debug\net6.0\refint\ILA 1 Projekt (Namen Datenbank).dll
+C:\Users\0toma\Downloads\ILA 1 Projekt (Namen Datenbank)\obj\Debug\net6.0\ILA 1 Projekt (Namen Datenbank).pdb
+C:\Users\0toma\Downloads\ILA 1 Projekt (Namen Datenbank)\bin\Debug\net6.0\ILA 1 Projekt (Namen Datenbank).exe
+C:\Users\0toma\Downloads\ILA 1 Projekt (Namen Datenbank)\bin\Debug\net6.0\ILA 1 Projekt (Namen Datenbank).deps.json
+C:\Users\0toma\Downloads\ILA 1 Projekt (Namen Datenbank)\bin\Debug\net6.0\ILA 1 Projekt (Namen Datenbank).runtimeconfig.json
+C:\Users\0toma\Downloads\ILA 1 Projekt (Namen Datenbank)\bin\Debug\net6.0\ILA 1 Projekt (Namen Datenbank).dll
+C:\Users\0toma\Downloads\ILA 1 Projekt (Namen Datenbank)\bin\Debug\net6.0\ILA 1 Projekt (Namen Datenbank).pdb
+C:\Users\0toma\Downloads\ILA 1 Projekt (Namen Datenbank)\obj\Debug\net6.0\ILA 1 Projekt (Namen Datenbank).genruntimeconfig.cache
+C:\Users\0toma\Downloads\ILA 1 Projekt (Namen Datenbank)\obj\Debug\net6.0\ref\ILA 1 Projekt (Namen Datenbank).dll
