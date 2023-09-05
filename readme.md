@@ -36,6 +36,17 @@ Heute habe ich viel mehr geschafft als geplant. Ich habe alle meine Ziele erreic
 
  Heute war ich sehr erfolgreich da ich es geschaft habe das mein Dictionary in einem Text Dokument gespeichert wird. Ich habe auch sehr viel über C# und StreamWriter gelernt. Ich bin zwar noch nicht 100% mit den verschiedenen Comands vertraut aber es komnmt langsam. Ich habe auch noch in meiner Extra Zeit meinen Kollegenen mit ihrem Code geholfen.Dazu habe ich mit meinem Neuen Projekt ein Spiel in C # zu programmieren angefangen.
 
+ ## Arbeitspakete für 12.09.2023
+
+- [ ] Mein Hangman spiel zum Funktionieren bringen.
+- [ ] Ein Neues Projekt überlegen.
+- [ ] Dieses Projekt Anfangen
+
+| Vorbereitung             | Eingabe | Erwartete Ausgabe | Erfüllt |
+| ---- | ------- | ----------------- | ---- |
+| Programm in VS gestartet | `(Irgend ein Buchstabe) ` | `(Buchstabe wird im Hangman spiel eingetragen` |  |
+
+
 
  
 
