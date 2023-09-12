@@ -38,13 +38,29 @@ Heute habe ich viel mehr geschafft als geplant. Ich habe alle meine Ziele erreic
 
  ## Arbeitspakete für 12.09.2023
 
-- [ ] Mein Hangman spiel zum Funktionieren bringen.
-- [ ] Ein Neues Projekt überlegen.
-- [ ] Dieses Projekt Anfangen
+- [X] Mein Hangman spiel zum Funktionieren bringen.
+- [X] Ein Neues Projekt überlegen.
+- [X] Dieses Projekt Anfangen
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe | Erfüllt |
 | ---- | ------- | ----------------- | ---- |
-| Programm in VS gestartet | `(Irgend ein Buchstabe) ` | `(Buchstabe wird im Hangman spiel eingetragen` |  |
+| Programm in VS gestartet | `(Irgend ein Buchstabe) ` | `(Buchstabe wird im Hangman spiel eingetragen` | X |
+
+Heute ist es recht gut gelaufen. Ich habe es geschaft mein Hangman spiel fertig zu machen. Ich muss aber sagen das dieses immer noch einwenig zu Komplex für mich ist. Ich habe auch ein Neues Projekt angefangen, dieses habe ich aber auch Heute schon wieder Fertig gemacht. Ich habe mich jetzt entschieden das ich nächstes mal ein Taschenrechner Progarmiere.
+ 
+## Arbeitspakete für 12.09.2023
+
+- [ ] Ein Programm welches ein eifaches UI öffnet
+- [ ] Ein Programm welches ein Knopf auf dem UI hat
+- [ ] Ein Programm wo ich mit über das UI Zahlen eingeben kann.
+- [ ] Ein Programm welches eine + Taste hat die auch Funkioniert
+
+| Vorbereitung             | Eingabe | Erwartete Ausgabe | Erfüllt |
+| ---- | ------- | ----------------- | ---- |
+| Programm in VS gestartet | `-` | `UI öffnet sich ` |  |
+| Programm in VS gestartet | ` 1 Taste Drücken` | ` 1 Wird in der UI geszeigt` |  |
+
+
 
 
 
