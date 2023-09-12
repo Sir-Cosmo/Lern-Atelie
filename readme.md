@@ -48,7 +48,7 @@ Heute habe ich viel mehr geschafft als geplant. Ich habe alle meine Ziele erreic
 
 Heute ist es recht gut gelaufen. Ich habe es geschaft mein Hangman spiel fertig zu machen. Ich muss aber sagen das dieses immer noch einwenig zu Komplex für mich ist. Ich habe auch ein Neues Projekt angefangen, dieses habe ich aber auch Heute schon wieder Fertig gemacht. Ich habe mich jetzt entschieden das ich nächstes mal ein Taschenrechner Progarmiere.
  
-## Arbeitspakete für 12.09.2023
+## Arbeitspakete für 19.09.2023
 
 - [ ] Ein Programm welches ein eifaches UI öffnet
 - [ ] Ein Programm welches ein Knopf auf dem UI hat
