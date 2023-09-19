@@ -50,16 +50,29 @@ Heute ist es recht gut gelaufen. Ich habe es geschaft mein Hangman spiel fertig 
  
 ## Arbeitspakete für 19.09.2023
 
-- [ ] Ein Programm welches ein eifaches UI öffnet
-- [ ] Ein Programm welches ein Knopf auf dem UI hat
-- [ ] Ein Programm wo ich mit über das UI Zahlen eingeben kann.
+- [X] Ein Programm welches ein eifaches UI öffnet
+- [X] Ein Programm welches ein Knopf auf dem UI hat
+- [X] Ein Programm wo ich mit über das UI Zahlen eingeben kann.
 - [ ] Ein Programm welches eine + Taste hat die auch Funkioniert
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe | Erfüllt |
 | ---- | ------- | ----------------- | ---- |
-| Programm in VS gestartet | `-` | `UI öffnet sich ` |  |
-| Programm in VS gestartet | ` 1 Taste Drücken` | ` 1 Wird in der UI geszeigt` |  |
+| Programm in VS gestartet | `-` | `UI öffnet sich ` | X |
+| Programm in VS gestartet | ` 1 Taste Drücken` | ` 1 Wird in der UI geszeigt` | X |
 
+Heute habe ich mit einem Brand neuem Projekt angefangen, wo ich gar keinen Anhaltspunkt hatte. Ich habe aber recht schnell gelernt, was WinForm ist und wie es funktioniert. Die ersten 3 Arbeitspakete recht schnell abgeschlossen. Danach bin ich aber voll in eine Wand reingelaufen und stecke bis jetzt fest. Ich habe sogar Chatgpt und Stack Overflow gefragt, leider habe ich keine Lösung gefunden. (63 Wörter)
+
+## Arbeitspakete für 19.09.2023
+
+- [ ] Ein Programm welches eine + Taste hat die auch Funkioniert
+- [ ] Ein Programm welches eine - Taste hat die auch Funkioniert
+- [ ] Ein Programm welches eine * Taste hat die auch Funkioniert
+
+
+| Vorbereitung             | Eingabe | Erwartete Ausgabe | Erfüllt |
+| ---- | ------- | ----------------- | ---- |
+| Programm in VS gestartet | `1 + 1 ` | `2` |  |
+| Programm in VS gestartet | `1 - 1` | `0` |  |
 
 
 
