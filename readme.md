@@ -62,7 +62,7 @@ Heute ist es recht gut gelaufen. Ich habe es geschaft mein Hangman spiel fertig 
 
 Heute habe ich mit einem Brand neuem Projekt angefangen, wo ich gar keinen Anhaltspunkt hatte. Ich habe aber recht schnell gelernt, was WinForm ist und wie es funktioniert. Die ersten 3 Arbeitspakete recht schnell abgeschlossen. Danach bin ich aber voll in eine Wand reingelaufen und stecke bis jetzt fest. Ich habe sogar Chatgpt und Stack Overflow gefragt, leider habe ich keine Lösung gefunden. (63 Wörter)
 
-## Arbeitspakete für 19.09.2023
+## Arbeitspakete für 26.09.2023
 
 - [ ] Ein Programm welches eine + Taste hat die auch Funkioniert
 - [ ] Ein Programm welches eine - Taste hat die auch Funkioniert
