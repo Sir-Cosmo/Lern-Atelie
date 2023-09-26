@@ -53,7 +53,7 @@ Heute ist es recht gut gelaufen. Ich habe es geschaft mein Hangman spiel fertig 
 - [X] Ein Programm welches ein eifaches UI öffnet
 - [X] Ein Programm welches ein Knopf auf dem UI hat
 - [X] Ein Programm wo ich mit über das UI Zahlen eingeben kann.
-- [ ] Ein Programm welches eine + Taste hat die auch Funkioniert
+- [X] Ein Programm welches eine + Taste hat die auch Funkioniert
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe | Erfüllt |
 | ---- | ------- | ----------------- | ---- |
@@ -64,15 +64,15 @@ Heute habe ich mit einem Brand neuem Projekt angefangen, wo ich gar keinen Anhal
 
 ## Arbeitspakete für 26.09.2023
 
-- [ ] Ein Programm welches eine + Taste hat die auch Funkioniert
-- [ ] Ein Programm welches eine - Taste hat die auch Funkioniert
-- [ ] Ein Programm welches eine * Taste hat die auch Funkioniert
+- [X] Ein Programm welches eine + Taste hat die auch Funkioniert
+- [X] Ein Programm welches eine - Taste hat die auch Funkioniert
+- [X] Ein Programm welches eine * Taste hat die auch Funkioniert
 
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe | Erfüllt |
 | ---- | ------- | ----------------- | ---- |
-| Programm in VS gestartet | `1 + 1 ` | `2` |  |
-| Programm in VS gestartet | `1 - 1` | `0` |  |
+| Programm in VS gestartet | `1 + 1 ` | `2` | X |
+| Programm in VS gestartet | `1 - 1` | `0` | X |
 
 
 
