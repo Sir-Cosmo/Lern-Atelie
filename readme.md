@@ -74,7 +74,7 @@ Heute habe ich mit einem Brand neuem Projekt angefangen, wo ich gar keinen Anhal
 | Programm in VS gestartet | `1 + 1 ` | `2` | X |
 | Programm in VS gestartet | `1 - 1` | `0` | X |
 
-
+Heute war ich sehr erfolgreich. Ich habe alle meine Ziele erreicht und mir schon Gedanken über mein neues Projekt für nach den Ferien gemacht. Ich bin auch echt zufrieden mit dem Fortschritt, den ich heute gemacht habe. Ich fühle mich jetzt viel sicherer mit Winforms und verstehe C# somit im allgemeinen besser. (52 Wörter)
 
 
  
