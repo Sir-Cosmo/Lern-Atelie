@@ -76,11 +76,8 @@ Heute habe ich mit einem Brand neuem Projekt angefangen, wo ich gar keinen Anhal
 
 Heute war ich sehr erfolgreich. Ich habe alle meine Ziele erreicht und mir schon Gedanken über mein neues Projekt für nach den Ferien gemacht. Ich bin auch echt zufrieden mit dem Fortschritt, den ich heute gemacht habe. Ich fühle mich jetzt viel sicherer mit Winforms und verstehe C# somit im allgemeinen besser. (52 Wörter)
 
-
- 
-
-      
- 
+## Reflexion
+Mir ist aufgefallen das ich am besten von Zuhause Arbeite. Ich glaube, das liegt daran, dass ich dort am wenigsten abgeklungen habe und mich besser konzentrieren kann. Es hilft sicher auch, dass ich fast 1 Stunde länger schlafen kann. Ich habe auch bemerkt, dass ich besser arbeite, wenn mich das Projekt herausfordert, aber nicht überfordert, wie zum Beispiel das Dictionary für Namen und Infos. Das Projekt, das mich am wenigsten nach vorne gebracht hat, war das Hangman spiel, da dieses zu Kompliziert für mein Programmier Level war. Ich sollte mir ab jetzt am besten Projekte auswählen, die ein leichter Anfang hat aber viele Optionen das Projekt zu erweitern. (108)
 
 
 
